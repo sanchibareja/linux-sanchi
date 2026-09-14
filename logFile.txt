@@ -155,7 +155,7 @@ chmod +x main
 which gcc
 /usr/bin/gcc
 
-23. display current directory and then moves it to parent directory 
+23. display the current directory and then moves it to parent directory 
 pwd ; cd ..
 /Users/gauravkakkar/Downloads/project
 
